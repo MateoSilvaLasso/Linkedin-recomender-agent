@@ -16,8 +16,8 @@ class LinkedInScraper:
         
         # Lista de URLs con categorías
         self.urls = [
-            #("https://www.linkedin.com/jobs/search/?keywords=data%20science&f_E=1%2C2", "Junior"),
-            #("https://www.linkedin.com/jobs/search/?keywords=data%20science&f_E=3%2C4", "Mid-Senior"),
+            ("https://www.linkedin.com/jobs/search/?keywords=data%20science&f_E=1%2C2", "Junior"),
+            ("https://www.linkedin.com/jobs/search/?keywords=data%20science&f_E=3%2C4", "Mid-Senior"),
             ("https://www.linkedin.com/jobs/search/?keywords=data%20science&f_E=5%2C6", "Senior")
         ]
 

@@ -21,7 +21,7 @@ st.title("🔍 Análisis de Ofertas de Trabajo")
 # Selector de categoría
 category = st.selectbox(
     "Selecciona una categoría:",
-    ["Junior", "Mid-senior", "Senior"]
+    ["Junior", "Mid-Senior", "Senior"]
 )
 
 # Botón para obtener el análisis
