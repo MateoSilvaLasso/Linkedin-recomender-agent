@@ -1,0 +1,9 @@
+llama-index-readers-database
+llama-index-core
+sqlalchemy 
+psycopg2
+llama-index-llms-google-genai
+supabase
+streamlit
+dotenv
+os
