@@ -1,6 +1,6 @@
 import streamlit as st
 import asyncio
-from agente import JobOfferAgent
+from dummy_solution.agente import JobOfferAgent
 from dotenv import load_dotenv
 import os
 
